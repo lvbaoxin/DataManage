@@ -1,9 +1,11 @@
-# platform
+# install dependencies
+npm install
 
-### 1.0.0
-1.  GIS功能完善
-2.  数据中心功能完善
-3.  统计分析功能完善
-4.  研判分析功能完善
-5.  首页功能完善
-6.
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
